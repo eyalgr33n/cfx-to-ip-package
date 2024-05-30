@@ -1,0 +1,26 @@
+{
+  "name": "cfx-to-ip",
+  "version": "1.0.0",
+  "description": "CFX-TO-IP is a JavaScript library for quick and reliable IP address resolution from CitizenFX platform code. Simplifies multiplayer gaming integration with seamless API interaction, asynchronous execution, and robust error handling.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eyalgr33n/cfx-to-ip-package.git"
+  },
+  "keywords": [
+    "cfx",
+    "cfx-to-ip"
+  ],
+  "author": "EyalGr33n",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eyalgr33n/cfx-to-ip-package/issues"
+  },
+  "homepage": "https://github.com/eyalgr33n/cfx-to-ip-package#readme",
+  "dependencies": {
+    "axios": "^1.7.2"
+  }
+}
